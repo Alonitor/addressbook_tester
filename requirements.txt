@@ -1,0 +1,10 @@
+Django==2.0.4
+django-crispy-forms==1.7.2
+django-localflavor-us==1.1
+easy-thumbnails==2.5
+Pillow==5.1.0
+python-dateutil==2.7.2
+pytz==2018.3
+six==1.11.0
+# South==1.0.2
+vobject==0.9.5
